@@ -1,0 +1,8 @@
+AppBuildConfig:
+    DEBUG: true
+    URL: http://google.com
+    Component1:
+        APP_ID: "abcdefg"
+        ENABLE_FEATURE_A: true
+        ENABLE_FEATURE_B: true
+        ENABLE_FEATURE_C: false
